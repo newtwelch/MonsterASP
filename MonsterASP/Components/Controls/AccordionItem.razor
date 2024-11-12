@@ -1,0 +1,42 @@
+﻿@rendermode InteractiveServer
+
+<button @onclick="OnClick" class="border-2 flex h-fit w-full flex-col overflow-hidden rounded-xl border-primary border-opacity-50 bg-gray px-5 py-3 font-thin transition-all">
+    <div class="flex justify-center gap-3">
+        @if (isActive)
+        {
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+            </svg>
+        }
+        else
+        {
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-5">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+            </svg>
+        }
+
+        @Question
+    </div>
+
+
+    @if (isActive)
+    {
+        <br />
+
+        <div class="ml-12 opacity-75">
+            @Answer
+        </div>
+    }
+</button>
+
+@code {
+    private bool isActive;
+
+    [Parameter]
+    public string Question { get; set; } = "";
+
+    [Parameter]
+    public string Answer { get; set; } = "";
+
+    private void OnClick() => isActive = !isActive;
+}

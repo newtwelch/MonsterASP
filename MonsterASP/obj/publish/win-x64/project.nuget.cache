@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "usdNAQQDDc8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\MonsterASP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Newt\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\Newt\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\Newt\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\Newt\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.10\\microsoft.netcore.app.crossgen2.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

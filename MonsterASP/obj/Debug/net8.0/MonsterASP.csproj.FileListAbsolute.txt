@@ -1,0 +1,58 @@
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\appsettings.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\package-lock.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\package.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\tailwind.extension.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.staticwebassets.runtime.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.exe
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.deps.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.runtimeconfig.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.pdb
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.AssemblyInfoInputs.cache
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.AssemblyInfo.cs
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.csproj.CoreCompileInputs.cache
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.MonsterASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.build.MonsterASP.props
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonsterASP.props
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonsterASP.props
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\scopedcss\bundle\MonsterASP.styles.css
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\refint\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.pdb
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.genruntimeconfig.cache
+C:\Users\Newt\OneDrive\Brackets Engine\MonsterASP\MonsterASP\obj\Debug\net8.0\ref\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\appsettings.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\package-lock.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\package.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\tailwind.extension.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.staticwebassets.runtime.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.exe
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.deps.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.runtimeconfig.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\bin\Debug\net8.0\MonsterASP.pdb
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.AssemblyInfoInputs.cache
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.AssemblyInfo.cs
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.csproj.CoreCompileInputs.cache
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.MonsterASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.build.MonsterASP.props
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonsterASP.props
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonsterASP.props
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\scopedcss\bundle\MonsterASP.styles.css
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\refint\MonsterASP.dll
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.pdb
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\MonsterASP.genruntimeconfig.cache
+C:\Users\Newt\OneDrive\Brackets Engine\(03) - MonsterASP\MonsterASP\obj\Debug\net8.0\ref\MonsterASP.dll

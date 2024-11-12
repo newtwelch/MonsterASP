@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\app.output.css",
+      "PackagePath": "staticwebassets\\app.output.css"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Adult Monster Plan.webp",
+      "PackagePath": "staticwebassets\\images\\Adult Monster Plan.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Apps Illustration.webp",
+      "PackagePath": "staticwebassets\\images\\Apps Illustration.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Baby Monster Plan.webp",
+      "PackagePath": "staticwebassets\\images\\Baby Monster Plan.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Dot Net Illustration.webp",
+      "PackagePath": "staticwebassets\\images\\Dot Net Illustration.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Full Text Logo.webp",
+      "PackagePath": "staticwebassets\\images\\Full Text Logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Homepage Server Illustration.webp",
+      "PackagePath": "staticwebassets\\images\\Homepage Server Illustration.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Monster Only Logo.webp",
+      "PackagePath": "staticwebassets\\images\\Monster Only Logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\images\\Teen Monster Plan.webp",
+      "PackagePath": "staticwebassets\\images\\Teen Monster Plan.webp"
+    },
+    {
+      "Id": "C:\\Users\\Newt\\OneDrive\\Brackets Engine\\(03) - MonsterASP\\MonsterASP\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.MonsterASP.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.MonsterASP.props",
+      "PackagePath": "build\\MonsterASP.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MonsterASP.props",
+      "PackagePath": "buildMultiTargeting\\MonsterASP.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.MonsterASP.props",
+      "PackagePath": "buildTransitive\\MonsterASP.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

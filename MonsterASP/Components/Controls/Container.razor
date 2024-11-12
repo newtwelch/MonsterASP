@@ -1,0 +1,22 @@
+﻿@* <div class="@Class border-2 flex rounded-3xl @(String.IsNullOrEmpty(Border) ? "border-primary" : Border) bg-gray px-6 py-6">
+    @ChildContent
+</div>
+ *@
+<div class="rounded-3xl @Border p-0.5">
+    <div class="@Class rounded-[calc(1.5rem-1px)] h-full w-full bg-gray p-6">
+        @ChildContent
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public RenderFragment? ChildContent { get; set; }
+
+    [Parameter]
+    public string Class { get; set; } = "";
+
+
+    [Parameter]
+    public string Border { get; set; } = "";
+
+}
