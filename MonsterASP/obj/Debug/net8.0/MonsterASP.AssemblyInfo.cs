@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonsterASP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a381f233ed76f05182015ea3fcee19857a2235e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonsterASP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonsterASP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
